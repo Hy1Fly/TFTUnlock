@@ -13,7 +13,6 @@
 ## 
 - Tip:tft_auto with infectious viruses / tft_auto 带有感染性病毒
 - Any consequences after use are at your own risk / 使用后的任何后果由你自己承担
-
 <img width="1920" height="1010" alt="7508d731907ea55013d2f2c0a94394c0" src="https://github.com/user-attachments/assets/7ca2958e-6511-4b8f-aaa2-14ab539a72b2" />
 
                                                  
@@ -25,9 +24,6 @@
 Download zip file
 
 ### 2. 加载补丁 / Patching
-
-1. Run `TFT_AUTO.exe` / 运行`TFT_AUTO.exe`
-
 ### 3. 开VPN / OpenVPN
 ### 4. 完成安装 / Final Step
 
